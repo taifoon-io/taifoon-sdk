@@ -1,0 +1,10 @@
+src/
+tests/
+examples/
+.github/
+.gitignore
+tsconfig.json
+*.tgz
+*.log
+.env*
+coverage/
